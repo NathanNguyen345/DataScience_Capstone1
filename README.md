@@ -1,4 +1,4 @@
-# San Francisco Crimes - Capstone 1 Proposal
+# San Francisco Crimes Proposal
 
 ## To view Jupyter Notebook [Click Here](https://github.com/NathanNguyen345/DataScience_Capstone1/blob/master/ExploratoryData/SF_Crime_Rate.ipynb)
 
